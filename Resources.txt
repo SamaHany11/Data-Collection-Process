@@ -1,1 +1,7 @@
-
+https://github.com/avirsaha/DocuMind
+https://github.com/DocumindHQ/documind
+https://github.com/aaronseq12/LLM-powered-document-intelligence-system?tab=readme-ov-file
+https://github.com/kristinagurung/-ai-microservices-platform (مفيد وواضح)
+https://github.com/navid72m/pdf?tab=readme-ov-file
+https://github.com/radiskis/ephesoft
+https://github.com/Azure-Samples/doc-intelligence-in-a-box
