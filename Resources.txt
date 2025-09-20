@@ -10,5 +10,7 @@ https://github.com/Azure-Samples/doc-intelligence-in-a-box
 #Shahd
 https://github.com/doc-analysis/DocBank
 https://huggingface.co/datasets/maveriq/DocBank
+https://github.com/ibm-aur-nlp/PubLayNet
+
 
 
