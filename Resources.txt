@@ -1,3 +1,4 @@
+#Esraa
 https://github.com/avirsaha/DocuMind
 https://github.com/DocumindHQ/documind
 https://github.com/aaronseq12/LLM-powered-document-intelligence-system?tab=readme-ov-file
@@ -5,3 +6,9 @@ https://github.com/kristinagurung/-ai-microservices-platform (مفيد وواض�
 https://github.com/navid72m/pdf?tab=readme-ov-file
 https://github.com/radiskis/ephesoft
 https://github.com/Azure-Samples/doc-intelligence-in-a-box
+
+#Shahd
+https://github.com/doc-analysis/DocBank
+https://huggingface.co/datasets/maveriq/DocBank
+
+
