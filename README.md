@@ -9,3 +9,6 @@ https://www.figma.com/make/hFey8JVYLU0Cy82biZTNY4/HR-Dashboard-UI-UX-Design?node
 
 menna
 https://www.figma.com/make/rBTBM9kWRifZL8f1ket2eD/Internal-Employee-System-UI?node-id=0-4&t=GChV6C3d19NC5Poh-0  USER)
+
+Esraa
+https://www.figma.com/make/Y0L4Waf8Dvp5mBNWHn64RW/Internal-Document-Management-System?node-id=0-1&p=f&t=GjjKLdERZtDOAQnv-0&fullscreen=1 (Full)
