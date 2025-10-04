@@ -1,1 +1,9 @@
+- **Personal Profile (with editable details):** 
+Allows employees to view and update personal information such as name, contact details, and profile photo.  
+
+- **Work Schedule / Calendar (with tasks and deadlines):** 
+Provides a calendar view of work schedules, tasks, and deadlines to help employees stay organized.  
+
+- **Search Bar (to quickly find documents or info):** 
+Enables employees to easily locate documents, payslips, or important information within the portal.  
 
